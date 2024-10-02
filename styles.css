@@ -1,0 +1,37 @@
+.Titulo{
+    background-color: white;
+    padding: 0%;
+}
+h1{
+    text-align: center;
+}
+.Grispapi{
+    padding: 10%;
+    background: lightgrey;
+}
+.Feed{
+    background-color:white;
+    width: 400px;
+    margin-left: 300px;
+    display: inline-block;
+}
+.Izquierda{
+    background-color:white;
+    float:left;
+    margin-left: 10px;
+}
+#Derecha{
+    float:right;
+    margin-right: 10px;
+}
+img{
+    height: 400px;
+    width: 400px;
+    display: block;
+}
+.Subtitulo{
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
